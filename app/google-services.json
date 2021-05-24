@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344590761450",
+    "firebase_url": "https://cachi-fitness-center.firebaseio.com",
+    "project_id": "cachi-fitness-center",
+    "storage_bucket": "cachi-fitness-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344590761450:android:400ca205954f5c524a0693",
+        "android_client_info": {
+          "package_name": "com.loaizasoftware.cachifitnesscenterandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344590761450-ldhsqd8s482rj10emr3i7a65ms7c9621.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGA9ZWMzUE36pY2y9UEN9HAlfmvttg_-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344590761450-ldhsqd8s482rj10emr3i7a65ms7c9621.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
